@@ -2,6 +2,9 @@
 
 An AI-powered web platform that helps users understand potential illnesses based on symptoms, and delivers instant recommendations — medications, precautions, diet, and workout advice — all from a single input.
 
+![image](https://github.com/user-attachments/assets/28688dde-c4af-4be7-8d38-f864096daa48)
+
+
 ---
 
 ## 📌 Overview
